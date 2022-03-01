@@ -132,3 +132,6 @@ F:\.NET\CWheelsApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens
 F:\.NET\CWheelsApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
 F:\.NET\CWheelsApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
 F:\.NET\CWheelsApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\.NET\CWheelsApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\.NET\CWheelsApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\.NET\CWheelsApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
